@@ -1,0 +1,62 @@
+.containers{
+    padding: 10px 10%;
+    /* background-color: violet; */
+}
+
+.logo span{
+    font-size: 20px;
+    font-weight: 700;
+    background-color: aqua;
+}
+.navigation{
+    margin-top: 20px;
+    background-color: rgb(42, 165, 69);
+    height: 20vh;
+}
+.navigation span{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.headers{
+    text-align: center;
+    background-color: blueviolet;
+    height: 20vh;
+}
+.headers h1{
+    padding: 10px;
+}
+.main-body{
+    display: flex;
+    margin-top: 20px;
+}
+.side-bar{
+    background-color: burlywood;
+    margin: 0px 10px 0px 0px;
+    min-height: 15vh;
+    flex-basis: 35%;
+    line-height: 15vh;
+    text-align: center;
+}
+.right-bar{
+    background-color: rgb(63, 199, 142);
+    height: 15vh;
+    flex-basis: 65%;
+    margin: 0px 0px 0px 20px;
+    /* ///////////// */
+    line-height: 15vh;
+
+}
+.footer{
+    margin-top: 20px;
+    background-color: bisque;
+    text-align: center;
+
+}
