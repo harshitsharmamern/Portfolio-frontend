@@ -39,7 +39,7 @@ const Navbar = () => {
                     <Link className='nav-tab-links' to="/">Home</Link>
                     <Link className='nav-tab-links'  to="/about">About</Link>
                     <Link className='nav-tab-links'  to="/contact">Contact</Link>
-                    <Link className='nav-tab-links'  to="/html">MY projects</Link>
+                    <Link className='nav-tab-links'  to="/web-developer">MY projects</Link>
                     {/* <Link className='nav-tab-links'  to="/admin">admin</Link> */}
 
                         {/* <li><a href="#">home</a></li>

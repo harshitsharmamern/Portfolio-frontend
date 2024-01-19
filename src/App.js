@@ -19,7 +19,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<First/>}/>
         <Route exact path="/About" element={<About/>}/>
-        <Route exact path="/html" element={<Frontend/>}/>
+        {/* <Route exact path="/html" element={<Frontend/>}/> */}
         <Route exact path="/admin" element={<Admin/>}/>
         <Route exact path="/contact" element={<Contact/>}/>
         <Route exact path="/web-developer" element={<Webdeveloper/>}/>
